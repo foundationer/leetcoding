@@ -2,8 +2,8 @@ package org.phase5;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.phase5.structures.ListBuilder;
-import org.phase5.structures.ListNode;
+import org.phase5.structures.linkedlist.ListBuilder;
+import org.phase5.structures.linkedlist.ListNode;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;

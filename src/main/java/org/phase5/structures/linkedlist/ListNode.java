@@ -1,4 +1,4 @@
-package org.phase5.structures;
+package org.phase5.structures.linkedlist;
 
 public class ListNode {
     public int val;

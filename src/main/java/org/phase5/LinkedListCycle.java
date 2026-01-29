@@ -1,6 +1,6 @@
 package org.phase5;
 
-import org.phase5.structures.ListNode;
+import org.phase5.structures.linkedlist.ListNode;
 
 public class LinkedListCycle {
 
