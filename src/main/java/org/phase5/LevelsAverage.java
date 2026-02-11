@@ -1,6 +1,5 @@
 package org.phase5;
 
-import org.phase5.structures.tree.BFS;
 import org.phase5.structures.tree.TreeNode;
 
 import java.util.ArrayList;
