@@ -1,7 +1,7 @@
 package org.phase5.structures.tree;
 
 public class TreeNode {
-     int val;
+     public int val;
      public TreeNode left;
      public TreeNode right;
 
